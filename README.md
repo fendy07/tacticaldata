@@ -1,2 +1,1 @@
-# tactical
-Tactical data preparation with team Algoritma Data Science
+# Tactical Data Preparation with R and Python
